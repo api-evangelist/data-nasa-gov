@@ -1,0 +1,21 @@
+{
+  "repo": "data-nasa-gov",
+  "feeds": [
+    {
+      "source": "https://www.nasa.gov/news/",
+      "feed_url": "https://www.nasa.gov/news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.nasa.gov/feed/",
+      "feed_url": "https://www.nasa.gov/feed/",
+      "title": "",
+      "saved": 10,
+      "method": "feed"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-10-10T13:15:00Z"
+}
